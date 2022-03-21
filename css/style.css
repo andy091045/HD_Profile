@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  font-family: "cwTeXYen", sans-serif;
+  background-color: #3e1950;
+}
+
+body {
+  background-color: #3e1950;
+}
+
+hdProfile {
+  height: 35px;
+}

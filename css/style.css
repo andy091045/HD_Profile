@@ -3,6 +3,10 @@
   font-family: "cwTeXYen", sans-serif;
 }
 
+html {
+  background-color: #3e1950;
+}
+
 #app {
   position: absolute;
   width: 100%;
